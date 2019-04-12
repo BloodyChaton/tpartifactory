@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:34 PDT 2019
+plexus-3.2.pom>central=
+plexus-3.2.pom>artifactory=
+plexus-3.2.pom>nexus=

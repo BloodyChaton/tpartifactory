@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:41 PDT 2019
+commons-parent-22.pom>nexus=
+commons-parent-22.pom>artifactory=
+commons-parent-22.pom>central=

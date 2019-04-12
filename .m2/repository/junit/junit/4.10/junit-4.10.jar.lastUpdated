@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:22 PDT 2019
+2bbcd8b32483338d2f538d1694329d8e716bc5a2@default-nexus-https\://localhost\:8081/repository/maven-snapshots/.lastUpdated=1554984445309
+https\://repo.maven.apache.org/maven2/.lastUpdated=1554984445478
+https\://localhost\:8081/repository/maven-snapshots/.error=Could not transfer artifact junit\:junit\:jar\:4.10 from/to nexus (https\://localhost\:8081/repository/maven-snapshots)\: Unrecognized SSL message, plaintext connection?
+http\://localhost\:8081/repository/maven-central/.lastUpdated=1554985671892
+http\://localhost\:8081/artifactory/jcenter/.lastUpdated=1555063402260

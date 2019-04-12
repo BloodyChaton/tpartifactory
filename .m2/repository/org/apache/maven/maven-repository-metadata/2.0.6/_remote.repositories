@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 02:52:11 PDT 2019
+maven-repository-metadata-2.0.6.pom>artifactory=
+maven-repository-metadata-2.0.6.pom>central=
+maven-repository-metadata-2.0.6.pom>nexus=
+maven-repository-metadata-2.0.6.jar>nexus=
+maven-repository-metadata-2.0.6.jar>artifactory=
+maven-repository-metadata-2.0.6.jar>central=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:22 PDT 2019
+junit-4.10.pom>nexus=
+junit-4.10.jar>artifactory=
+junit-4.10.jar>central=
+junit-4.10.jar>nexus=
+junit-4.10.pom>central=
+junit-4.10.pom>artifactory=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:38 PDT 2019
+google-1.pom>nexus=
+google-1.pom>artifactory=
+google-1.pom>central=

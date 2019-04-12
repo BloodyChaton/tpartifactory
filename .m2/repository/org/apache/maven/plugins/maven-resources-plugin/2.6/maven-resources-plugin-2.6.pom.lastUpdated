@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:18 PDT 2019
+http\://localhost\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to nexus (http\://localhost\:8081/repository/maven-snapshots/)\: Failed to transfer file http\://localhost\:8081/repository/maven-snapshots/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom with status code 400
+http\://localhost\:8081/repository/maven-central/.lastUpdated=1554985668074
+http\://localhost\:8081/artifactory/jcenter/.lastUpdated=1555063398137
+@default-nexus-http\://localhost\:8081/repository/maven-snapshots/.lastUpdated=1554984995197

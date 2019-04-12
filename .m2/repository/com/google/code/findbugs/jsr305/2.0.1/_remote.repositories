@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:39 PDT 2019
+jsr305-2.0.1.jar>central=
+jsr305-2.0.1.jar>artifactory=
+jsr305-2.0.1.pom>central=
+jsr305-2.0.1.pom>artifactory=
+jsr305-2.0.1.pom>nexus=
+jsr305-2.0.1.jar>nexus=

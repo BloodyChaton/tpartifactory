@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 02:49:16 PDT 2019
+maven-parent-5.pom>artifactory=
+maven-parent-5.pom>central=
+maven-parent-5.pom>nexus=

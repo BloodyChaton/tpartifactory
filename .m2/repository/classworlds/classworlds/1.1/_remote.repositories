@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:26 PDT 2019
+classworlds-1.1.jar>nexus=
+classworlds-1.1.pom>nexus=
+classworlds-1.1.jar>artifactory=
+classworlds-1.1.jar>central=
+classworlds-1.1.pom>central=
+classworlds-1.1.pom>artifactory=

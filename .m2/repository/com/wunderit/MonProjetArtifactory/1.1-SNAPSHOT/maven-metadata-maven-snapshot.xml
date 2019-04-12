@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.wunderit</groupId>
+  <artifactId>MonProjetArtifactory</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190412.123158</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190412123158</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-20190412.123158-1</value>
+        <updated>20190412123158</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

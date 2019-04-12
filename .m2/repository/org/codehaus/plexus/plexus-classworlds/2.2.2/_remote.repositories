@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:39 PDT 2019
+plexus-classworlds-2.2.2.jar>artifactory=
+plexus-classworlds-2.2.2.jar>central=
+plexus-classworlds-2.2.2.pom>central=
+plexus-classworlds-2.2.2.pom>nexus=
+plexus-classworlds-2.2.2.jar>nexus=
+plexus-classworlds-2.2.2.pom>artifactory=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 02:49:14 PDT 2019
+maven-plugins-22.pom>nexus=
+maven-plugins-22.pom>artifactory=
+maven-plugins-22.pom>central=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:26 PDT 2019
+maven-reporting-api-2.0.6.jar>artifactory=
+maven-reporting-api-2.0.6.pom>nexus=
+maven-reporting-api-2.0.6.jar>nexus=
+maven-reporting-api-2.0.6.pom>artifactory=
+maven-reporting-api-2.0.6.jar>central=
+maven-reporting-api-2.0.6.pom>central=

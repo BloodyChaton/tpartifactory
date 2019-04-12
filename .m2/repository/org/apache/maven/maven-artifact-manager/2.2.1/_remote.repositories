@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:32 PDT 2019
+maven-artifact-manager-2.2.1.jar>central=
+maven-artifact-manager-2.2.1.pom>central=
+maven-artifact-manager-2.2.1.pom>artifactory=
+maven-artifact-manager-2.2.1.pom>nexus=

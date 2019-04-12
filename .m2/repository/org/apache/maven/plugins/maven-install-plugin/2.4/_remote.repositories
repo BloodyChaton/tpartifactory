@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 02:50:25 PDT 2019
+maven-install-plugin-2.4.jar>central=
+maven-install-plugin-2.4.pom>artifactory=
+maven-install-plugin-2.4.pom>central=
+maven-install-plugin-2.4.pom>nexus=
+maven-install-plugin-2.4.jar>artifactory=
+maven-install-plugin-2.4.jar>nexus=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:21 PDT 2019
+2bbcd8b32483338d2f538d1694329d8e716bc5a2@default-nexus-https\://localhost\:8081/repository/maven-snapshots/.lastUpdated=1554984445080
+https\://repo.maven.apache.org/maven2/.lastUpdated=1554984445104
+https\://localhost\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.hamcrest\:hamcrest-core\:pom\:1.1 from/to nexus (https\://localhost\:8081/repository/maven-snapshots)\: Unrecognized SSL message, plaintext connection?
+http\://localhost\:8081/repository/maven-central/.lastUpdated=1554985671595
+http\://localhost\:8081/artifactory/jcenter/.lastUpdated=1555063401858

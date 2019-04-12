@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:26 PDT 2019
+commons-cli-1.0.jar>nexus=
+commons-cli-1.0.jar>artifactory=
+commons-cli-1.0.jar>central=
+commons-cli-1.0.pom>central=
+commons-cli-1.0.pom>artifactory=
+commons-cli-1.0.pom>nexus=

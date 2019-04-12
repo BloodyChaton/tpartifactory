@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:21 PDT 2019
+http\://central/.error=Could not transfer artifact junit\:junit\:pom\:4.10 from/to central (http\://central)\: central\: Nom ou service inconnu
+2bbcd8b32483338d2f538d1694329d8e716bc5a2@default-nexus-https\://localhost\:8081/repository/maven-snapshots/.lastUpdated=1554984442705
+@default-central-http\://central/.lastUpdated=1554984312343
+https\://repo.maven.apache.org/maven2/.lastUpdated=1554984445012
+https\://localhost\:8081/repository/maven-snapshots/.error=Could not transfer artifact junit\:junit\:pom\:4.10 from/to nexus (https\://localhost\:8081/repository/maven-snapshots)\: Unrecognized SSL message, plaintext connection?
+http\://localhost\:8081/repository/maven-central/.lastUpdated=1554985671349
+http\://localhost\:8081/artifactory/jcenter/.lastUpdated=1555063401782

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 02:52:11 PDT 2019
+plexus-utils-3.0.5.jar>nexus=
+plexus-utils-3.0.5.jar>artifactory=
+plexus-utils-3.0.5.pom>nexus=
+plexus-utils-3.0.5.pom>artifactory=

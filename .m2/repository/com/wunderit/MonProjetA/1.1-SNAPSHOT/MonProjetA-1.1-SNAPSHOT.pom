@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.wunderit</groupId>
+  <artifactId>MonProjetA</artifactId>
+  <packaging>pom</packaging>
+  <version>1.1-SNAPSHOT</version>
+  <name>Projet A</name>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.10</version>
+    </dependency>
+  </dependencies>
+
+<modules>
+   <module>enfant/pom.xml</module>
+</modules>
+
+<distributionManagement>
+    <snapshotRepository>
+      <id>maven-snapshot</id>
+      <name>Snapshot</name>
+      <url>http://localhost:8081/artifactory/libs-snapshot-local/</url>
+    </snapshotRepository>
+  </distributionManagement>
+</project>

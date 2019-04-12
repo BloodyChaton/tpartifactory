@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:43 PDT 2019
+surefire-api-2.12.4.jar>central=
+surefire-api-2.12.4.pom>central=
+surefire-api-2.12.4.jar>artifactory=
+surefire-api-2.12.4.pom>nexus=
+surefire-api-2.12.4.jar>nexus=
+surefire-api-2.12.4.pom>artifactory=

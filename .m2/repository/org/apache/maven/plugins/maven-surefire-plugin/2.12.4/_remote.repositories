@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 03:03:21 PDT 2019
+maven-surefire-plugin-2.12.4.jar>artifactory=
+maven-surefire-plugin-2.12.4.jar>nexus=
+maven-surefire-plugin-2.12.4.pom>nexus=
+maven-surefire-plugin-2.12.4.pom>artifactory=
+maven-surefire-plugin-2.12.4.jar>central=
+maven-surefire-plugin-2.12.4.pom>central=

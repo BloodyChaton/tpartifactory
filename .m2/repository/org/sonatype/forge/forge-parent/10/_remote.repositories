@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 02:51:32 PDT 2019
+forge-parent-10.pom>nexus=
+forge-parent-10.pom>artifactory=
+forge-parent-10.pom>central=
